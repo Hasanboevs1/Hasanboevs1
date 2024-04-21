@@ -1,5 +1,5 @@
 ### Hi there 👋, My name is Muhammadyusuf
-![][NET Backend Developer.jpg](https://github.com/Hasanboevs1/Hasanboevs1/blob/main/NET%20Backend%20Developer.jpg)
+![][NET Backend Developer.jpg](https://github.com/Hasanboevs1/Hasanboevs1/blob/main/NET%20Backend%20Developer.jpg?raw=true)
 
 I am Muhammadyusuf from Uzbekistan, and I am software engineer. I really enjoy learning new things that are immediatly important to the project problems that i contribute, as well as working in WebMinds where i have been experiencing for a long time. I am into building games with Unity.
 
