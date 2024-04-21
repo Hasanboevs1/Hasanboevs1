@@ -19,8 +19,6 @@ I am Muhammadyusuf from Uzbekistan, and I am software engineer. I really enjoy l
  - Selling
  - Design
 
-- 🔭 I’m currently working on this page. 
-
 
 
 ![Hasanboevs1's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hasanboevs1&theme=vue-dark&hide_border=false)
