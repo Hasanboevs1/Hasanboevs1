@@ -16,7 +16,6 @@ I am Muhammadyusuf from Uzbekistan, and I am software engineer. I really enjoy l
  - Russia A1+
  - Maths
  - Cominucation
- - Selling
  - Design
 
 
