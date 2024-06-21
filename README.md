@@ -12,12 +12,6 @@ I am Muhammadyusuf from Uzbekistan, and I am software engineer. I really enjoy l
  - Microsoft SQL Server
  - LINQ
  - Dapper
- - English C1
- - Russia A1+
- - Maths
- - Cominucation
- - Design
-
 
 
 ![Hasanboevs1's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hasanboevs1&theme=vue-dark&hide_border=false)
